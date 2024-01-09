@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	hello JSP! 4시 14
+	hello JSP! 커밋해보기
 </body>
 </html>
